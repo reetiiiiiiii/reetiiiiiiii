@@ -1,4 +1,4 @@
-![MasterHead](https://d1aueex22ha5si.cloudfront.net/Conference/1209/BackGround/Machine%20Learning-1599808127617.gif)]
+![MasterHead](https://d1aueex22ha5si.cloudfront.net/Conference/1209/BackGround/Machine%20Learning-1599808127617.gif)
 <h1 align="center">Hi 👋, I'm Riti Yadav</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
 <img align="right" alt="Coding" width="400" src="https://www.grazitti.com/assets/2020/02/Analytics_amp_Data_Science.gif">
